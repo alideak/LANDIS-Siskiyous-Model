@@ -60,16 +60,16 @@ CohortMortalityB0  			-5.18		<< Intercept
 CohortMortalityB1 			-0.603774	<< The parameter fit for the relationship between bark thickness and cohort mortality.
 CohortMortalityB2   		 0.075682	<< The parameter fit for the relationship between site mortality and cohort mortality. 
 
-LadderFuelMaxAge 			28 		<< per Tahoe project
+LadderFuelMaxAge 			28 	
 
 LadderFuelSpeciesList 
 CaloDecu  PinuJeff  PinuLamb  PinuMont  PseuMenz  Arctosta  Ceanothu  ChryChry  
 Frangula  Garrya  GaulShal  MahoNerv  Quercus  Rhododen  Rubus  Vacciniu  WhipMode
 
-SuppressionMaxWindSpeed		12 		<< per Tahoe project
+SuppressionMaxWindSpeed		12 		
 Suppression_CSV_File		suppression_input.csv
 
-DeadWoodTable 		<< per Tahoe project
+DeadWoodTable 		
 PinuJeff					22
 CaloDecu					33
 PinuLamb					27
